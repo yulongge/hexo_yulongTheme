@@ -1,5 +1,6 @@
-# Landscape
+# hexo_yulongTheme
 
+其实是对Landscape主题的修改
 A brand new default theme for [Hexo].
 
 - [Preview](http://hexo.io/hexo-theme-landscape/)
